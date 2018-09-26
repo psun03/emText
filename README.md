@@ -4,4 +4,4 @@ emText is an application that help you contact your favorite people in a touch o
 
 Place the widget on your homescreen to alert your contacts. This widget is compatible with your lockscreen.
 
-Play Store (https://play.google.com/store/apps/details?id=com.simpleemergencywidget)
+Play Store: No longer available
